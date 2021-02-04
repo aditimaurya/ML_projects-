@@ -3,5 +3,6 @@ This repository contains the simple basic ML projects which I'm doing while lear
 **IT contains the jupyter notebookes where all the codes has been written**
 ##Contents:
 - Linear Regression Model
-- Multi Regression Model
+- Multiple linear Regression Model
+- Polynomial linear regression model
 ( Will add more as I'll proceed further)
