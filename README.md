@@ -5,4 +5,4 @@ This repository contains the simple basic ML projects which I'm doing while lear
 - Linear Regression Model
 - Multiple linear Regression Model
 - Polynomial linear regression model
-( Will add more as I'll proceed further)
+- Support Vector Regression Model
