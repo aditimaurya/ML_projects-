@@ -6,3 +6,5 @@ This repository contains the simple basic ML projects which I'm doing while lear
 - Multiple linear Regression Model
 - Polynomial linear regression model
 - Support Vector Regression Model
+- Decision Tree Regression
+- Random Forest Regression
