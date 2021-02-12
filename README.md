@@ -9,3 +9,4 @@ This repository contains the simple basic ML projects which I'm doing while lear
 - Decision Tree Regression
 - Random Forest Regression
 - Logistic Regression 
+- KNN classification
