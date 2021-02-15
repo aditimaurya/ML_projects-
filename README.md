@@ -18,4 +18,4 @@ This repository contains the simple basic ML projects which I'm doing while lear
 - Kernel SVM
 - Naive Bayes
 - Decision Tree
-- Forest Classification
+- Random Forest Classification
