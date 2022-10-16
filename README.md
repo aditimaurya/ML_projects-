@@ -19,3 +19,4 @@ This repository contains the simple basic ML projects which I'm doing while lear
 - Naive Bayes
 - Decision Tree
 - Random Forest Classification
+- monte carlo 
