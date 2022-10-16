@@ -2,7 +2,7 @@
 This repository contains the simple basic ML projects which I'm doing while learning some courses of ML and Data Science.
 **It contains the jupyter notebookes where all the codes has been written**
 ##Contents:
-
+- Text Preprocessing
 **#Regression**
 - Linear Regression Model
 - Multiple linear Regression Model
